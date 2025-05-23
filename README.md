@@ -1,0 +1,1 @@
+ESP32 Drone - watch this video to get more info about this project: https://youtu.be/8P6MRaY3kbY

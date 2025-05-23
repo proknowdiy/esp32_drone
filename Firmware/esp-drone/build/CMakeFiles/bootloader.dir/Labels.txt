@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/CMakeFiles/bootloader
+C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/CMakeFiles/bootloader.rule
+C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/CMakeFiles/bootloader-complete.rule
+C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

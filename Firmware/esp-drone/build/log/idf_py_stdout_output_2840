@@ -1,0 +1,5 @@
+[1/4] cmd.exe /C "cd /D C:\Users\visha\Desktop\ESP-Drone-main\ESP-Drone-main\Firmware\esp-drone\build\esp-idf\esptool_py && C:\Espressif\python_env\idf5.0_py3.11_env\Scripts\python.exe C:/Espressif/frameworks/esp-idf-v5.0.7/components/partition_table/check_sizes.py --offset 0x8000 partition --type app C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/partition_table/partition-table.bin C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/ESPDrone.bin"
+ESPDrone.bin binary size 0xdb820 bytes. Smallest app partition is 0x100000 bytes. 0x247e0 bytes (14%) free.
+[2/4] Performing build step for 'bootloader'
+[1/1] cmd.exe /C "cd /D C:\Users\visha\Desktop\ESP-Drone-main\ESP-Drone-main\Firmware\esp-drone\build\bootloader\esp-idf\esptool_py && C:\Espressif\python_env\idf5.0_py3.11_env\Scripts\python.exe C:/Espressif/frameworks/esp-idf-v5.0.7/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/build/bootloader/bootloader.bin"
+Bootloader binary size 0x6e30 bytes. 0x1d0 bytes (2%) free.

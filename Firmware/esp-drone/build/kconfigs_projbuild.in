@@ -1,0 +1,6 @@
+source "C:/Espressif/frameworks/esp-idf-v5.0.7/components/bootloader/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.0.7/components/esp_app_format/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.0.7/components/esp_rom/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.0.7/components/esptool_py/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.0.7/components/partition_table/Kconfig.projbuild"
+source "C:/Users/visha/Desktop/ESP-Drone-main/ESP-Drone-main/Firmware/esp-drone/main/Kconfig.projbuild"
