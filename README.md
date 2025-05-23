@@ -1,7 +1,8 @@
 ESP32 Drone - watch this video to get more info about this project: https://youtu.be/8P6MRaY3kbY
 
 ⚙️Used Parts [ Indian Site]
-720 Coreless Motors: https://bit.ly/3zmy1Wb
+
+720 Coreless Motors: https://bit.ly/3zmy1Wb <br />
 55mm propellers: https://bit.ly/3FlyWch
 1s Lipo Battery: https://bit.ly/4kAx9za
 7mm Rubber Grommet: https://bit.ly/3SNseib\
